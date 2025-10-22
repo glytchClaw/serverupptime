@@ -4,6 +4,12 @@ repo: serverupptime # The name of this repository
 assignees:
 - glytchClaw
 
+NOTIFICATION_EMAIL_SMTP: true
+NOTIFICATION_EMAIL_SMTP_PORT: 587
+NOTIFICATION_EMAIL_SMTP_HOST: smtp-mail.outlook.com
+NOTIFICATION_EMAIL_SMTP_USERNAME: ${{ secrets.email_user }}
+NOTIFICATION_EMAIL_SMTP_PASSWORD: ${{ secrets.email_pass }}
+
 sites:
   - name: Church Nextcloud
     url: https://drive.gracesd.com
