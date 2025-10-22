@@ -76,19 +76,19 @@
     "url": "https://website.glynch.dev",
     "icon": "https://icons.duckduckgo.com/ip3/website.glynch.dev.ico",
     "slug": "website",
-    "status": "down",
-    "uptime": "69.94%",
-    "uptimeDay": "69.94%",
-    "uptimeWeek": "69.94%",
-    "uptimeMonth": "69.94%",
-    "uptimeYear": "69.94%",
-    "time": 314,
-    "timeDay": 314,
-    "timeWeek": 314,
-    "timeMonth": 314,
-    "timeYear": 314,
+    "status": "up",
+    "uptime": "68.70%",
+    "uptimeDay": "68.70%",
+    "uptimeWeek": "68.70%",
+    "uptimeMonth": "68.70%",
+    "uptimeYear": "68.70%",
+    "time": 316,
+    "timeDay": 316,
+    "timeWeek": 316,
+    "timeMonth": 316,
+    "timeYear": 316,
     "dailyMinutesDown": {
-      "2025-10-22": 78
+      "2025-10-22": 83
     }
   },
   {
