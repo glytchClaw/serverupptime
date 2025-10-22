@@ -4,14 +4,11 @@ repo: serverupptime # The name of this repository
 assignees:
 - glytchClaw
 
-NOTIFICATION_EMAIL_SMTP: true
-NOTIFICATION_EMAIL_SMTP_PORT: 587
-NOTIFICATION_EMAIL_SMTP_SECURE: false
+NOTIFICATION_GOTIFY: true
+NOTIFICATION_GOTIFY_URL: https://goti.glynch.dev
+NOTIFICATION_GOTIFY_TOKEN: ${{ secrets.GOTI_TOCKEN }}
 NOTIFICATION_EMAIL_SMTP_HOST: smtp-mail.outlook.com
-NOTIFICATION_EMAIL_SMTP_USERNAME: ${{ secrets.EMAIL_USER }}
-NOTIFICATION_EMAIL_SMTP_PASSWORD: ${{ secrets.EMAIL_PASS }}
-NOTIFICATION_EMAIL_FROM: ${{ secrets.EMAIL_USER }}
-NOTIFICATION_EMAIL_TO: ${{ secrets.EMAIL_USER }}
+NOTIFICATION_GOTIFY_TITLE: Website Down
 
 sites:
   - name: Church Nextcloud
