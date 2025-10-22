@@ -9,6 +9,8 @@ NOTIFICATION_EMAIL_SMTP_PORT: 587
 NOTIFICATION_EMAIL_SMTP_HOST: smtp-mail.outlook.com
 NOTIFICATION_EMAIL_SMTP_USERNAME: ${{ secrets.EMAIL_USER }}
 NOTIFICATION_EMAIL_SMTP_PASSWORD: ${{ secrets.EMAIL_PASS }}
+NOTIFICATION_EMAIL_FROM: "serverstatus@glytchclaw.io"
+NOTIFICATION_EMAIL_TO: ${{ secrets.EMAIL_USER }}
 
 sites:
   - name: Church Nextcloud
