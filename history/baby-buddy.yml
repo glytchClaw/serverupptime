@@ -1,7 +1,7 @@
 url: https://ren.glynch.dev
-status: up
-code: 200
-responseTime: 237
-lastUpdated: 2025-11-18T12:31:56.249Z
+status: down
+code: 500
+responseTime: 120
+lastUpdated: 2025-11-18T13:09:29.750Z
 startTime: 2025-10-22T19:28:37.981Z
 generator: Upptime <https://github.com/upptime/upptime>
