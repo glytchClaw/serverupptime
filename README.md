@@ -26,7 +26,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://glytchClaw.github.io/serverupptime)
+[**Visit the status website →**](https://glytchClaw.github.io/serverupptime)
 
 ## 📄 License
 
