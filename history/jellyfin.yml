@@ -1,7 +1,7 @@
 url: https://movies.glynch.dev
-status: down
-code: 502
-responseTime: 289
-lastUpdated: 2026-01-18T04:10:03.763Z
+status: up
+code: 200
+responseTime: 426
+lastUpdated: 2026-01-18T06:28:17.221Z
 startTime: 2025-10-22T19:28:37.300Z
 generator: Upptime <https://github.com/upptime/upptime>
