@@ -21,6 +21,8 @@ sites:
     url: https://mediaserver.biggie.dad
   - name: LHR Gotify
     url: https://notify.biggie.dad
+  - name: Holmes Immich
+    url: https://holmesimmich.glynch.dev
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
