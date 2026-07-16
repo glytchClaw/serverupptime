@@ -295,11 +295,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mediaserver.biggie.dad.ico",
     "slug": "lhr-jellyfin",
     "status": "up",
-    "uptime": "89.43%",
+    "uptime": "89.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.52%",
-    "uptimeYear": "89.43%",
+    "uptimeYear": "89.44%",
     "time": 1487,
     "timeDay": 965,
     "timeWeek": 956,
@@ -385,19 +385,20 @@
     "url": "https://holmesimmich.glynch.dev",
     "icon": "https://icons.duckduckgo.com/ip3/holmesimmich.glynch.dev.ico",
     "slug": "holmes-immich",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "98.53%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.64%",
-    "time": 303,
-    "timeDay": 259,
-    "timeWeek": 261,
-    "timeMonth": 303,
-    "timeYear": 303,
+    "time": 296,
+    "timeDay": 174,
+    "timeWeek": 243,
+    "timeMonth": 296,
+    "timeYear": 296,
     "dailyMinutesDown": {
-      "2026-07-09": 148
+      "2026-07-09": 148,
+      "2026-07-16": 0
     }
   }
 ]
