@@ -4,17 +4,17 @@
     "url": "https://drive.gracesd.com",
     "icon": "https://icons.duckduckgo.com/ip3/drive.gracesd.com.ico",
     "slug": "church-nextcloud",
-    "status": "down",
-    "uptime": "99.06%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.06%",
-    "time": 590,
-    "timeDay": 378,
-    "timeWeek": 577,
-    "timeMonth": 577,
-    "timeYear": 590,
+    "status": "up",
+    "uptime": "99.05%",
+    "uptimeDay": "98.10%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.05%",
+    "time": 591,
+    "timeDay": 525,
+    "timeWeek": 604,
+    "timeMonth": 583,
+    "timeYear": 591,
     "dailyMinutesDown": {
       "2025-10-30": 602,
       "2025-11-06": 21,
@@ -39,7 +39,7 @@
       "2026-05-31": 61,
       "2026-07-25": 76,
       "2026-08-08": 37,
-      "2026-08-22": 0
+      "2026-08-22": 27
     }
   },
   {
